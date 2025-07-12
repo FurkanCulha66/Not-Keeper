@@ -14,7 +14,8 @@ In short, it's a **daily note-keeper** project designed for simplicity and effic
 
 ## Preview
 
-![NoteKeeper-GoogleChrome2025-07-1216-04-37-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/88a3d755-b0db-4d95-9acf-d88128ec2569)
+![NoteKeeper-GoogleChrome2025-07-1216-56-33-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8e0943a4-3263-4ee2-815e-5bb93b10a5e0)
+
 
 
   
